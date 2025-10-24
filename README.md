@@ -24,6 +24,5 @@ Também desenvolvo <b>web scrapers</b>, <b>CLIs</b> e <b>crypto bots</b>.
 
 ## 🌐 Onde me encontrar
 - Site/Portfólio: <a href="https://www.genstack.com.br">genstack.com.br</a>
-- E-mail: <a href="mailto:seuemail@dominio.com">seuemail@dominio.com</a>
 
 <!-- Dica: fixe 6 repositórios nos "Pins" (ex.: LP, SaaS, API Go, scraper, CLI, bot). -->
