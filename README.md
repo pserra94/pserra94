@@ -6,7 +6,7 @@ Construo <b>landing pages rápidas</b>, <b>sites e blogs</b> e <b>SaaS</b> com a
 Também desenvolvo <b>web scrapers</b>, <b>CLIs</b> e <b>crypto bots</b>.
 </p>
 
-## 🔧 Stack (o que eu realmente uso)
+## 🔧 Stacks Principais
 <p>
   <img src="https://skillicons.dev/icons?i=go,ts,js,react,nextjs,vite,tailwind,html,css&perline=10" />
 </p>
