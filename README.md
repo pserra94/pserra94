@@ -10,7 +10,7 @@ Também desenvolvo <b>web scrapers</b>, <b>CLIs</b> e <b>crypto bots</b>.
 <p>
   <img src="https://skillicons.dev/icons?i=go,ts,js,react,nextjs,vite,tailwind,html,css&perline=10" />
 </p>
-
+<p>
 <div align="left" style="font:600 14px/1.4 system-ui, -apple-system, Segoe UI, Roboto, Arial;">
   <div style="background:#0b1220; border:1px solid #1f2937; border-radius:12px; padding:14px 16px; width:360px; max-width:100%;">
     <div style="color:#dbe4ff; font-weight:700; margin-bottom:10px;">Tecnologias</div>
@@ -35,7 +35,7 @@ Também desenvolvo <b>web scrapers</b>, <b>CLIs</b> e <b>crypto bots</b>.
     </div>
   </div>
 </div>
-
+</p>
 ## 🚀 O que eu entrego
 - **LPs, Sites e Blogs** — Next.js / React + Vite, Tailwind, SEO técnico, performance.
 - **SaaS & APIs** — autenticação, roles/permits, APIs REST; integrações com serviços de terceiros.
