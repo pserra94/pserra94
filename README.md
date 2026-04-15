@@ -1,8 +1,11 @@
 <h1 align="left">Oi, eu sou o Pedro 👋</h1>
 
 <p align="left">
-Sou <b>Product Engineer / Dev Full-stack</b> focado em <b>Go</b> e <b>TypeScript/JavaScript</b>.
-Construo <b>landing pages rápidas</b>, <b>sites e blogs</b> e <b>SaaS</b> com autenticação, integrações e APIs.
+Sou <b>Revenue Engineer / GTM Engineer / AI Systems Builder</b> focado em <b>Go</b> e <b>TypeScript/JavaScript</b>. 
+</p>
+
+<p align="left">
+Construo <b>SaaS</b> com autenticação, integrações e APIs, <b>landing pages rápidas</b>, <b>sites e blogs</b>.
 Também desenvolvo <b>web scrapers</b>, <b>CLIs</b> e <b>crypto bots</b>.
 </p>
 
