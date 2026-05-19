@@ -1,7 +1,7 @@
 <h1 align="left">Oi, eu sou o Pedro 👋</h1>
 
 <p align="left">
-Sou <b>GTM Engineer / AI Systems Builder / Revenue Engineer</b> focado em <b>Go</b> e <b>TypeScript/JavaScript</b>. 
+Sou <b>Software Engineer | AI Systems Builder | RevOps & Automations</b> focado em <b>TypeScript, JavaScript e <b>Go</b>. 
 </p>
 
 <p align="left">
