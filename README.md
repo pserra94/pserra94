@@ -1,34 +1,52 @@
-<h1 align="left">Oi, eu sou o Pedro 👋</h1>
+<h1 align="left">Pedro Serra 👋</h1>
 
 <p align="left">
-Sou <b>Software Engineer | AI Systems Builder | RevOps & Automations</b> focado em <b>TypeScript, JavaScript e <b>Go</b>. 
+<b>Software Engineer | AI Systems Builder | Revenue & Automation Systems</b>
 </p>
 
 <p align="left">
-Construo <b>SaaS</b> com autenticação, integrações e APIs, <b>landing pages rápidas</b>, <b>sites e blogs</b>.
-Também desenvolvo <b>web scrapers</b>, <b>CLIs</b> e <b>crypto bots</b>.
+Engenheiro de Software especializado na construção de <b>sistemas escaláveis</b>, 
+<b>integrações enterprise</b>, <b>plataformas SaaS</b>, <b>automação operacional</b> 
+e <b>AI-driven systems</b>.
 </p>
 
-## 🔧 Stacks Principais
+<p align="left">
+Atuo conectando <b>CRM</b>, <b>dados</b>, <b>operações</b>, <b>marketing</b> e 
+<b>receita</b> através de APIs, workflows, integrações e arquitetura moderna 
+utilizando <b>Go</b>, <b>TypeScript</b>, <b>Node.js</b> e <b>Next.js</b>.
+</p>
+
+---
+
+## 🔧 Core Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=go,ts,js,react,nextjs,vite,tailwind,html,css&perline=10" />
+  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,react,nextjs,vite,tailwind,postgres,docker&perline=10" />
 </p>
 
-<img width="444" height="159" alt="image" src="https://github.com/user-attachments/assets/03a2bdd3-7571-4343-b6a1-2d89c850c064" />
+---
 
+## 🚀 Expertise
 
-## 🚀 O que eu entrego
-- **LPs, Sites e Blogs** — Next.js / React + Vite, Tailwind, SEO técnico, performance.
-- **SaaS & APIs** — autenticação, roles/permits, APIs REST; integrações com serviços de terceiros.
-- **Automação** — web scrapers confiáveis, CLIs portáveis e jobs recorrentes.
-- **Bots** — rotinas automatizadas (incl. cripto), foco em estabilidade e logs.
+- **Enterprise Integrations** — CRM, ERP, APIs, ETL, Webhooks & Data Pipelines
+- **AI Systems & Automations** — operational workflows, AI-powered systems and process automation
+- **SaaS Platforms** — scalable multi-tenant architectures, authentication, RBAC and APIs
+- **Revenue Operations** — CRM automation, customer lifecycle, funnels and growth systems
+- **High-Performance Web Apps** — Next.js, React, SEO, performance and scalable frontend architecture
+- **Backend Engineering** — Go services, workers, schedulers, integrations and observability
 
-## 📌 Destaques
-- **Micro-serviços em Go** unificando fontes e expondo uma API única.
-- **LPs e sites** com Lighthouse alto, DX simples e CMS leve quando necessário.
-- **Scrapers/CLIs** com retries/backoff e observabilidade básica.
+---
 
-## 🌐 Onde me encontrar
-- Site/Portfólio: <a href="https://www.genstack.com.br">genstack.com.br</a>
+## 📌 Highlights
 
-<!-- Dica: fixe 6 repositórios nos "Pins" (ex.: LP, SaaS, API Go, scraper, CLI, bot). -->
+- Building scalable systems focused on operational efficiency and revenue growth
+- Architecture and integration between CRM, marketing, customer support and internal platforms
+- Development of automation and AI-driven operational workflows
+- Enterprise-grade APIs and backend services with observability and resiliency patterns
+- Modern frontend applications with strong UX, SEO and performance
+
+---
+
+## 🌐 Links
+
+- Portfolio: <a href="https://www.genstack.com.br">genstack.com.br</a>
