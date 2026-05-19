@@ -21,7 +21,7 @@ utilizando <b>Go</b>, <b>TypeScript</b>, <b>Node.js</b> e <b>Next.js</b>.
 ## 🔧 Core Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,react,nextjs,vite,tailwind,postgres,docker&perline=10" />
+  <img src="https://skillicons.dev/icons?i=ts,js,go,nodejs,react,nextjs,vite,tailwind,postgres,docker&perline=10" />
 </p>
 
 ---
